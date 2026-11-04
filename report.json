@@ -1,0 +1,50 @@
+{
+  "config": "earthx",
+  "slug": "earthx-search",
+  "videos": 265,
+  "transcribed": 258,
+  "skipped": [
+    {
+      "id": "g0-fduvt4tc",
+      "title": "Banquet and Isolde Fair Live Performance - 4/21/2026",
+      "reason": "no-en-captions"
+    },
+    {
+      "id": "pduvRNivAEI",
+      "title": "Opening Remarks: The Gigawatt Race with Peter Simek and Reed Clay - 4/20/2026",
+      "reason": "no-en-captions"
+    },
+    {
+      "id": "ZQA4qP3QzZE",
+      "title": "Opening Remarks and Welcome: Earth Stage with Peter Simek - 4/21/2026",
+      "reason": "no-en-captions"
+    },
+    {
+      "id": "C2ZzFnN7hSM",
+      "title": "Athletic Spotlight on Garry Gilliam - 4/21/2026",
+      "reason": "no-en-captions"
+    },
+    {
+      "id": "IJh-umO0uyQ",
+      "title": "NA",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "kYzNaPJ2SDI",
+      "title": "NA",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "gB_DW-L0O3A",
+      "title": "AEM - Texas Business Summit: Live Performance: Javier Aguilar (Mariachi Pura Sangre) - 4/22/2026",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    }
+  ],
+  "cues": 178483,
+  "captionSource": {
+    "manual": 1,
+    "auto": 257
+  },
+  "windows": 16219,
+  "speakers": 144
+}
